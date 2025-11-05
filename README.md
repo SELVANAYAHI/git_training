@@ -1,1 +1,1 @@
-# git_training
+To learn on gitHub
